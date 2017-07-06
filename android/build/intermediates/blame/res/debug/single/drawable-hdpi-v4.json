@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\tools\\Android\\ws2\\playground-drops\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\tools\\Android\\ws2\\playground-drops\\android\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\tools\\Android\\ws2\\playground\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\tools\\Android\\ws2\\playground\\android\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
