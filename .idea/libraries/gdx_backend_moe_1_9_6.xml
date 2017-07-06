@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="gdx-backend-moe-1.9.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-moe/1.9.6/8c1b1276e01d52b254cb1c3334110f5833ec304d/gdx-backend-moe-1.9.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-moe/1.9.6/e235a0ac78b0614ca454957d9163c53754bc5846/gdx-backend-moe-1.9.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
